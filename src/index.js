@@ -5,7 +5,7 @@ import ReactDOM from 'react-dom';
 // Create a React component
 const App = function(){
 
-const buttonText = "Click Me";
+const buttonText = "Click Me Test";
 const labelText = "Enter name:";
 const style = {backgroundColor: 'blue', color: 'white'};
 
